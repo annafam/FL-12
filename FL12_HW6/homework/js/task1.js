@@ -1,9 +1,6 @@
 let a = prompt('Please enter value A').trim();
-console.log('a = ' + a);
 let b = prompt('Please enter value B').trim();
-console.log('b = ' + b);
 let c = prompt('Please enter value C').trim();
-console.log('c = ' + c);
 
 let d, x, x1, x2;
 let two = 2;

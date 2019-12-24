@@ -1,9 +1,6 @@
 let a = prompt('Please enter triangle side A length');
-console.log('side A = ' + a);
 let b = prompt('Please enter triangle side B length');
-console.log('side B = ' + b); 
 let c = prompt('Please enter triangle side C length');
-console.log('side C = ' + c);
 
 if (isNaN(a) || isNaN(b) || isNaN(c)) {
   alert('Input values should be ONLY numbers ');
